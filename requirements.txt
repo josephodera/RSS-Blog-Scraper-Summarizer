@@ -1,0 +1,5 @@
+  feedparser
+  requests
+  beautifulsoup4
+  lxml
+  sqlite3-binary ; only needed if not included in Python
